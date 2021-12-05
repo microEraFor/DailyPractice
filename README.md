@@ -1,0 +1,2 @@
+# DailyPractice
+Some Java practices.
